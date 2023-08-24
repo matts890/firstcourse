@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+}
+
+.flex_20{
+  flex:0.2;
+}
+
+.flex_60{
+ flex:0.6;
+}
+
+.mb{
+  margin-bottom: -20px;
+}
+
+.over{
+  overflow-wrap: anywhere;
+}
